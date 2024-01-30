@@ -19,3 +19,8 @@ ___strong text___
 
 [heading-1](#heading-1 "Goto heading-1")
 
+First header | second header
+------------ | ------------
+content cell | content cell
+content cell | \|
+
