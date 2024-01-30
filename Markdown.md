@@ -6,3 +6,8 @@ First Header | Second Header
 ------------ | -------------
 Content Cell | Content Cell
 Content Cell | Content Cell
+common text
+_emphasized text_
+_This is a emphasized message_
+~~Strikethrough~~
+~~This message is strikethrough~~
