@@ -13,3 +13,6 @@ _This is a emphasized message_
 ~~This message is strikethrough~~
 
 _message_
+__strong text__
+__Mesasge__
+___strong text___
