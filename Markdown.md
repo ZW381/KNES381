@@ -1,24 +1,7 @@
-# Heading 1 #
-## Heading 2 ##
-### Heading 3 ###
-#### Heading 4 ####
-First Header | Second Header
------------- | -------------
-Content Cell | Content Cell
-Content Cell | Content Cell
+<h1 style="text-align: center;"> The Centered Title</h1>
+<img style="float:right;" src="C:\Users\25099\Desktop/smiling-dog.jpg">
+<p
 
 
-_message_
-__strong text__
-__Mesasge__
-___strong text___
 
-[heading-1](#heading-1 "Goto heading-1")
-
-First header | second header
------------- | ------------
-content cell | content cell
-content cell | \|
-
-linelinelineline
 
