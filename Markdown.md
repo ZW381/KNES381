@@ -1,6 +1,6 @@
 <h1> <p align="center">This is the title </h1>
 <img align="right" src ="smiling-dog.jpg" style width="500" height="450"> </img>
-<code style="color : aquamarine"> Coloured Text </code>
+<p style="color:Tomato;"> Coloured Text </p>
 
 <a href="readme.md"> This is my Readme file </a>
 
