@@ -5,3 +5,4 @@
 <a href="readme.md"> This is my Readme file </a>
 
 <a href="smiling-dog.jpg"> This is my dog image file </a>
+<p> This is the chemical formula: VO<sub>2</p>
