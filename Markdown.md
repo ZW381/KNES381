@@ -1,6 +1,6 @@
 <h1> <p align="center">This is the title </h1>
 <img align="right" src ="smiling-dog.jpg" style width="500" height="450"> </img>
-<p style="color:Tomato;"> Coloured Text </p>
+<p style="color:MediumSeaGreen;"> Coloured Text </p>
 <p> Look, this cute dog is smiling to you! Please touch his head!
 
 <a href="readme.md"> This is my Readme file </a>
