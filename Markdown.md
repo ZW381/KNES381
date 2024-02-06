@@ -1,5 +1,5 @@
 <h1> <p align="center">This is the title </h1>
-<img align="right" src ="smiling-dog.jpg" style width="500" height="450"> </img>
+<img align="right" src ="image/smiling-dog.jpg" style width="500" height="450"> </img>
 <p style="color:MediumSeaGreen;"> Coloured Text </p>
 <code style="color:red;"> This text is blue </code>
 <p> Look, this cute dog is smiling to you! Please touch his head!
